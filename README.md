@@ -4,10 +4,10 @@
 
 # /exterpolation(@ripbypassed)<br><br>
 
-### Contributions<br>
+<!-- ### Contributions<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=exterpolation&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
 
-  #
+# -->
   
 ### Languages<br>
   
