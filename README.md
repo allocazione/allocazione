@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-# /home/lyssa (@exterpolation)<br><br>
+# /home/lyssa (@exterpolation)<br><br><hr>
 
 <!-- ### Contributions (Disabled because of private profile) <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=exterpolation&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
