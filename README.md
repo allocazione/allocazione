@@ -5,13 +5,13 @@
 # /home/lyssa (@allocazione)<br><br>
 
 <!-- ### Contributions (Disabled because of private profile) <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=exterpolation&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=allocazione&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
 
 # -->
   
 ### Languages<br>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exterpolation&layout=compact&theme=transparent&hide_border=true&border_radius=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allocazione&layout=compact&theme=transparent&hide_border=true&border_radius=15)
 
 ![My Skills](https://skillicons.dev/icons?i=php,html,javascript,typescript,nodejs,vue,angular,react,swift,java,rust,c,cpp,python)<br>
 ![My Skills 2](https://skillicons.dev/icons?i=lua,bash,powershell,markdown)<br><hr>
