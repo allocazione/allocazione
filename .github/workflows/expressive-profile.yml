@@ -21,3 +21,8 @@ jobs:
       - uses: metawka/expressive-profile@v1
         with:
           token: ${{ secrets.PROFILE_TOKEN || github.token }}
+      - name: rm
+        run: |
+          sed -i '\|^<a href="https://metawka.github.io/expressive-profile/|d' README.md
+          git add README.md
+          git diff --cached --quiet
