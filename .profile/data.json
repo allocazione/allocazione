@@ -1,0 +1,359 @@
+{
+ "key": "431f1de0",
+ "stars": 2,
+ "contributions": 527,
+ "repos": 16,
+ "followers": 22,
+ "languages": [
+  [
+   "Rust",
+   193506
+  ],
+  [
+   "Python",
+   100575
+  ],
+  [
+   "Svelte",
+   62472
+  ],
+  [
+   "JavaScript",
+   19971
+  ],
+  [
+   "CSS",
+   15004
+  ],
+  [
+   "C++",
+   10009
+  ],
+  [
+   "Java",
+   8696
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 2,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 4,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 0,
+  "longest": 6
+ },
+ "pins": [
+  {
+   "name": "seloris-toolkit",
+   "url": "https://github.com/allocazione/seloris-toolkit",
+   "text": "The swiss army knife for day-to-day scripts.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "ahk",
+    "ahk-script",
+    "autohotkey",
+    "python",
+    "python3",
+    "scripting",
+    "scripts"
+   ]
+  },
+  {
+   "name": "seloris-tweaks",
+   "url": "https://github.com/allocazione/seloris-tweaks",
+   "text": "A collection of tweaks for Vencord (or any other client) to enhance the Discord experience.",
+   "fork": false,
+   "stars": 2,
+   "language": "CSS",
+   "topics": [
+    "betterdiscord",
+    "betterdiscord-theme",
+    "discord",
+    "discord-theme",
+    "theme",
+    "theme-ui",
+    "vencord",
+    "vencord-theme"
+   ]
+  },
+  {
+   "name": "starrailstation-script",
+   "url": "https://github.com/allocazione/starrailstation-script",
+   "text": "A script to automate pity tracking for a famous anime game.",
+   "fork": false,
+   "stars": 0,
+   "language": "Batchfile",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "seloris-tweaks",
+   "url": "https://github.com/allocazione/seloris-tweaks",
+   "text": "A collection of tweaks for Vencord (or any other client) to enhance the Discord experience.",
+   "fork": false,
+   "stars": 2,
+   "language": "CSS",
+   "topics": [
+    "betterdiscord",
+    "betterdiscord-theme",
+    "discord",
+    "discord-theme",
+    "theme",
+    "theme-ui",
+    "vencord",
+    "vencord-theme"
+   ]
+  },
+  {
+   "name": "rmonitor",
+   "url": "https://github.com/allocazione/rmonitor",
+   "text": "TUI Performance and Docker monitor built in Rust",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "allocazione.dev",
+   "url": "https://github.com/allocazione/allocazione.dev",
+   "text": "Repository for my own website",
+   "fork": false,
+   "stars": 0,
+   "language": "Svelte",
+   "topics": []
+  },
+  {
+   "name": "lyre",
+   "url": "https://github.com/allocazione/lyre",
+   "text": "A user-first, community driven 'now listening' bot for Mastodon/Misskey instances.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "hoyolab-auto",
+   "url": "https://github.com/allocazione/hoyolab-auto",
+   "text": "Auto check-in and others for any Hoyoverse games",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "goGreen",
+   "url": "https://github.com/allocazione/goGreen",
+   "text": "make your profile look like you've been hard at work... even if you haven't.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "OsageChan_GRUB_theme",
+   "url": "https://github.com/allocazione/OsageChan_GRUB_theme",
+   "text": "A grub theme with Osage Chan from Inabakumori",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "windowsVocalUtility",
+   "url": "https://github.com/allocazione/windowsVocalUtility",
+   "text": "Creating (very badly) a Python-based program able to find and locate your files in Windows or open your app just using your voice.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "shika-translations",
+   "url": "https://github.com/allocazione/shika-translations",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "seloris-toolkit",
+   "url": "https://github.com/allocazione/seloris-toolkit",
+   "text": "The swiss army knife for day-to-day scripts.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "ahk",
+    "ahk-script",
+    "autohotkey",
+    "python",
+    "python3",
+    "scripting",
+    "scripts"
+   ]
+  },
+  {
+   "name": "VRAP",
+   "url": "https://github.com/allocazione/VRAP",
+   "text": "VRAP, also known as Valorant Random Agent Picker",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "gsgen",
+   "url": "https://github.com/allocazione/gsgen",
+   "text": "A Gamesense-like clantag generator made in Python",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "WuWa_Simple_FPSUnlocker",
+   "url": "https://github.com/allocazione/WuWa_Simple_FPSUnlocker",
+   "text": "A simple FPS Unlocking Tool built for Wuthering Waves! Simple and easy to use, the program takes care of the hard work for you. Designed to be easily used by anyone regardless of your technical ability.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "allocazione",
+   "url": "https://github.com/allocazione/allocazione",
+   "text": "README file for my profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "starrailstation-script",
+   "url": "https://github.com/allocazione/starrailstation-script",
+   "text": "A script to automate pity tracking for a famous anime game.",
+   "fork": false,
+   "stars": 0,
+   "language": "Batchfile",
+   "topics": []
+  },
+  {
+   "name": "comp-templates",
+   "url": "https://github.com/allocazione/comp-templates",
+   "text": "a collection of templates used in competitive programming to save up time and reduce redundancy.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  }
+ ]
+}
