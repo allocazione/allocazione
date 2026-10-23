@@ -18,11 +18,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: metawka/expressive-profile@v1
+      - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PROFILE_TOKEN || github.token }}
+          repository: metawka/expressive-profile
+          ref: v1
+          path: .expressive-profile
+          persist-credentials: false
+      - name: Render
+        run: node .expressive-profile/action/render.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
       - name: rm
         run: |
           sed -i '\|^<a href="https://metawka.github.io/expressive-profile/|d' README.md
-          git add README.md
-          git diff --cached --quiet
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A assets README.md .profile
+          git diff --cached --quiet || (git commit -m "Updated profile" && git push)
