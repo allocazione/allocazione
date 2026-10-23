@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "login": "allocazione",
+  "seed": "#4285F4",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "streak"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Selene",
+    "subtitle": "Fullstack developer and SOC Analyst.",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Italy"
+      },
+      {
+        "icon": "code",
+        "label": "Go · Next.js"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "items": [
+      {
+        "icon": "terminal",
+        "label": "Server & Infrastructure Engineer"
+      },
+      {
+        "icon": "code",
+        "label": "Frontend, UI/UX & Performance Optimization"
+      },
+      {
+        "icon": "code",
+        "label": "Backend & Threat Mitigation"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Stack",
+    "groups": [
+      {
+        "title": "Frontend",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
+          },
+          {
+            "icon": "brand:vuedotjs",
+            "label": "Vue"
+          },
+          {
+            "icon": "brand:svelte",
+            "label": "Svelte"
+          },
+          {
+            "icon": "brand:sass",
+            "label": "SCSS"
+          },
+          {
+            "icon": "brand:angular",
+            "label": "Angular"
+          }
+        ]
+      },
+      {
+        "title": "Backend",
+        "items": [
+          {
+            "icon": "coffee",
+            "label": "Java"
+          },
+          {
+            "icon": "brand:go",
+            "label": "Go"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          }
+        ]
+      },
+      {
+        "title": "Infrastructure",
+        "items": [
+          {
+            "icon": "brand:supabase",
+            "label": "Supabase"
+          },
+          {
+            "icon": "brand:postgresql",
+            "label": "PostgreSQL"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          },
+          {
+            "icon": "brand:vercel",
+            "label": "Vercel"
+          },
+          {
+            "icon": "brand:nginx",
+            "label": "Nginx"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:debian",
+            "label": "Debian"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "Actions"
+          },
+          {
+            "icon": "brand:zsh",
+            "label": "Zsh"
+          },
+          {
+            "icon": "brand:xfce",
+            "label": "XFCE"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "allocazione.dev",
+      "rmonitor",
+      "lyre"
+    ],
+    "overrides": {
+      "allocazione.dev": {
+        "icon": "brand:svelte",
+        "text": ""
+      },
+      "lyre": {
+        "shape": "cookie",
+        "icon": "brand:python"
+      },
+      "rmonitor": {
+        "shape": "cookie",
+        "icon": "brand:rust"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/usagimusume"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/659022591071223819"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "Website",
+        "url": "https://allocazione.dev",
+        "style": "filled"
+      }
+    ]
+  }
+}

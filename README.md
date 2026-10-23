@@ -1,23 +1,21 @@
-![Header](./header.png)
+<div align="center">
 
-<div id="header" align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Selene"></picture>
 
-# /home/sel (@allocazione)<br><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="32.661%" alt=""></picture><a href="https://t.me/usagimusume"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/659022591071223819"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="32.661%" alt=""></picture>
 
-<!-- ### Contributions (Disabled because of private profile) <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=allocazione&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About Me"></picture>
 
-# -->
-  
-### Languages<br>
-  
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allocazione&layout=compact&theme=transparent&hide_border=true&border_radius=15) -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Stack"></picture>
 
-![My Skills](https://skillicons.dev/icons?i=php,html,javascript,typescript,nodejs,vue,angular,react,swift,java,rust,c,cpp,python)<br>
-![My Skills 2](https://skillicons.dev/icons?i=lua,bash,powershell,markdown)<br><hr>
+<a href="https://github.com/allocazione/allocazione.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-allocazione-dev-dark.svg"><img src="assets/project-allocazione-dev-light.svg" width="49%" alt="allocazione.dev"></picture></a>&nbsp;<a href="https://github.com/allocazione/rmonitor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-rmonitor-dark.svg"><img src="assets/project-rmonitor-light.svg" width="49%" alt="rmonitor"></picture></a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/659022591071223819?bg=212121&borderRadius=15px&hideClan=true&hideBadges=true&hideDecoration=true&showDisplayName=true)](https://discord.com/users/659022591071223819)<br><br>
-[![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=wgupz8x7rohqanezzao2g3cxw)](https://open.spotify.com/user/wgupz8x7rohqanezzao2g3cxw?si=bb34c8e3dba84ee7)
+<a href="https://github.com/allocazione/lyre"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-lyre-dark.svg"><img src="assets/project-lyre-light.svg" width="49%" alt="lyre"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://allocazione.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="Website"></picture></a>
+
 </div>
-
-![Footer](./footer.png)
