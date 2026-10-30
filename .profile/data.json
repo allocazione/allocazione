@@ -1,5 +1,5 @@
 {
- "key": "9726b3d2",
+ "key": "522faffc",
  "stars": 2,
  "contributions": 529,
  "repos": 16,
@@ -133,9 +133,13 @@
    {
     "c": 0,
     "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
     "today": true
    },
-   null,
    null
   ]
  ],
